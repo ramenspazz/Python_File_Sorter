@@ -68,16 +68,16 @@ class sorting_hat:
 
 Harry = sorting_hat(foo = lambda a, b : a[0] > b[0], slist = ['zharry','jon','linda', 'barak obama', 'jesus' ,'matthew piazza'])
 
-for dick in Harry:
+for val in Harry:
     pass
     
-Harry. p_list()
+Harry.p_list()
 
 Harry.browse_dir()
 
 Harry.sort_file_type()
 
-for needle in Harry:
+for val in Harry:
     pass
 
 Harry.p_list()
